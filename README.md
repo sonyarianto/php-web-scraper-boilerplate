@@ -1,2 +1,2 @@
-# php-scraper-boilerplate
-My PHP based scraper code boilerplate
+# php-web-scraper-boilerplate
+My PHP based web scraper code boilerplate
