@@ -1,7 +1,8 @@
 # php-web-scraper-boilerplate
 My PHP based web scraper code boilerplate
 
-I love to do web scraping in this pure way. No need any kind of "bulky" and "need-more-time to learn" third-party libraries.
+## Why
+I love to do web scraping in this pure way. No need any kind of "bulky" and "need-more-time to learn" third-party libraries. PHP can do great job :)
 
 ## Preparation
 - Latest PHP should be installed, I prefer >= 7.3
